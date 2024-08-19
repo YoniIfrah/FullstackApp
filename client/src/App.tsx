@@ -30,7 +30,7 @@ const App: React.FC = () => {
             return;
         }
 
-        fetch("http://localhost:3001/metadata", {
+        fetch("https://fullstack-app-server-sepia.vercel.app/metadata", {
             method: "POST",
             headers: {
                 "Content-Type": "application/json",
