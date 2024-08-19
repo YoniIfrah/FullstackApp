@@ -1,6 +1,6 @@
 # FullstackApp
 
-# Clinet Side
+# Client Side
 
 ## Available Scripts
 
